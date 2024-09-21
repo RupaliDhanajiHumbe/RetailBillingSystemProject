@@ -1,0 +1,20 @@
+		**WELCOME CUSTOMER**
+		                Date:19/04/24 13:43:53
+
+Bill Number:231
+
+Customer Name:Ram
+
+Customer Phone Number:9456732490
+
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Sugar			4			160 Rs
+-------------------------------------------------------
+ Cosmetic Tax				0.0Rs
+ Grocery Tax				8.0Rs
+ Drinks Tax				0.0Rs
+ Total Bill 				168.0
+-------------------------------------------------------

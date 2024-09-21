@@ -1,0 +1,20 @@
+		**WELCOME CUSTOMER**
+		                 Date:17/04/24 22:33:47
+
+Bill Number:946
+
+Customer Name:Rahul
+
+Customer Phone Number:1234567890
+
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Rice			4			120 Rs
+-------------------------------------------------------
+ Cosmetic Tax				0.0Rs
+ Grocery Tax				6.0Rs
+ Drinks Tax				0.0Rs
+ Total Bill 				126.0
+-------------------------------------------------------

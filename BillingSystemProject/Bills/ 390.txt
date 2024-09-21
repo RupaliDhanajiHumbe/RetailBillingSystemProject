@@ -1,0 +1,20 @@
+		**WELCOME CUSTOMER**
+		                 Date:17/04/24 22:45:48
+
+Bill Number:390
+
+Customer Name:Varsha
+
+Customer Phone Number:1234543567
+
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Wheat			4			320 Rs
+-------------------------------------------------------
+ Cosmetic Tax				0.0Rs
+ Grocery Tax				16.0Rs
+ Drinks Tax				0.0Rs
+ Total Bill 				336.0
+-------------------------------------------------------

@@ -1,0 +1,21 @@
+		**WELCOME CUSTOMER**
+		                 Date:19/04/24 09:11:53
+
+Bill Number:239
+
+Customer Name:Payal
+
+Customer Phone Number:9876543210
+
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Oil			2			240 Rs
+Dew			2			60 Rs
+-------------------------------------------------------
+ Cosmetic Tax				0.0Rs
+ Grocery Tax				12.0Rs
+ Drinks Tax				4.8Rs
+ Total Bill 				316.8
+-------------------------------------------------------

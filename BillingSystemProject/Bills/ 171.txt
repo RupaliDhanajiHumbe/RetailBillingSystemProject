@@ -1,0 +1,22 @@
+		**WELCOME CUSTOMER**
+		                 Date:19/04/24 13:38:58
+
+Bill Number:171
+
+Customer Name:Rahul
+
+Customer Phone Number:9845362590
+
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Face Cream			2			100 Rs
+Sugar			3			120 Rs
+Frooti			2			40 Rs
+-------------------------------------------------------
+ Cosmetic Tax				12.0Rs
+ Grocery Tax				6.0Rs
+ Drinks Tax				3.2Rs
+ Total Bill 				281.2
+-------------------------------------------------------

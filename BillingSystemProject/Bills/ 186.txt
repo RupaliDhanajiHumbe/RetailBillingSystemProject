@@ -1,0 +1,22 @@
+		**WELCOME CUSTOMER**
+		                 Date:19/04/24 13:24:22
+
+Bill Number:186
+
+Customer Name:Varsha
+
+Customer Phone Number:9674382940
+
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Bath soap			2			40 Rs
+Sugar			3			120 Rs
+Sprite			5			225 Rs
+-------------------------------------------------------
+ Cosmetic Tax				4.8Rs
+ Grocery Tax				6.0Rs
+ Drinks Tax				18.0Rs
+ Total Bill 				413.8
+-------------------------------------------------------

@@ -1,0 +1,24 @@
+		**WELCOME CUSTOMER**
+		                 Date:18/04/24 12:37:35
+
+Bill Number:101
+
+Customer Name:Dhanaji
+
+Customer Phone Number:9960701755
+
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Bath soap			2			40 Rs
+Hair Spray			2			300 Rs
+Oil			5			600 Rs
+Dew			2			60 Rs
+Coco_Cola			7			630 Rs
+-------------------------------------------------------
+ Cosmetic Tax				40.8Rs
+ Grocery Tax				30.0Rs
+ Drinks Tax				55.2Rs
+ Total Bill 				1756.0
+-------------------------------------------------------

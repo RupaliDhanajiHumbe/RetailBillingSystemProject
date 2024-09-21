@@ -1,0 +1,20 @@
+		**WELCOME CUSTOMER**
+		                 Date:17/04/24 22:35:20
+
+Bill Number:482
+
+Customer Name:Rupali
+
+Customer Phone Number:1234567890
+
+
+=======================================================
+Product			Quantity			Price
+=======================================================
+Rice			5			150 Rs
+-------------------------------------------------------
+ Cosmetic Tax				0.0Rs
+ Grocery Tax				7.5Rs
+ Drinks Tax				0.0Rs
+ Total Bill 				157.5
+-------------------------------------------------------
